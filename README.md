@@ -2,30 +2,18 @@
 
 📊 Analista de Dados com experiência em Business Intelligence e Inteligência Comercial no mercado financeiro.
 
-Ao longo da minha carreira, descobri que os dados vão muito além de números: eles ajudam a entender pessoas, identificar oportunidades e apoiar decisões que realmente fazem diferença no negócio.
-
-Hoje trabalho desenvolvendo dashboards, indicadores (KPIs), automações e análises utilizando Power BI, SQL e Excel, sempre buscando transformar dados em insights claros e acionáveis.
+Acredito que dados geram valor quando se transformam em decisões. É isso que busco construir todos os dias: dashboards, indicadores, automações e análises que ajudam o negócio a evoluir.
 
 🎓 Graduada em Administração
 💰 Pós-graduada em Finanças
 📚 Estudante de Ciência de Dados
 
-Atualmente estou aprofundando meus conhecimentos em Python, Git e tecnologias modernas de dados para construir soluções cada vez mais inteligentes e escaláveis.
+## 🚀 Por aqui você vai encontrar
 
-### 🚀 Tecnologias
+📈 Projetos de Business Intelligence  
+🐍 Estudos em Python e IA  
+📊 Dashboards e análises de dados  
+💡 Automações e soluções para problemas reais  
+📚 Minha evolução na área de Dados
 
-💙 Power BI
-🗄️ SQL
-🐍 Python
-📈 Excel
-🌱 Git & GitHub
-
-### 🌎 O que você vai encontrar por aqui
-
-✨ Projetos de Business Intelligence
-📊 Dashboards interativos
-🐍 Estudos em Python
-🧠 Análises exploratórias de dados
-📚 Aprendizados da minha jornada em Ciência de Dados
-
-Sempre aberta para aprender, compartilhar conhecimento e construir soluções que gerem impacto através dos dados. 🚀
+Sempre aprendendo, construindo e compartilhando conhecimento. Se dados podem gerar impacto, quero fazer parte dessa transformação. 🚀
