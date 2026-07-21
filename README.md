@@ -30,11 +30,11 @@ Hoje estou aprofundando conhecimentos em **Inteligência Artificial**, **Python*
 
 # 🎓 Formação
 
-🎓 Administração
+🎓 Administração - FTT Faculdade de Tecnologia Termomecanica
 
-💰 Pós-graduação em Finanças
+💰 Pós-graduação em Finanças - FUNDACE USP
 
-📚 Estudante de Ciência de Dados
+📚 Estudante de Ciência de Dados - UMESP 
 
 ---
 
