@@ -1,19 +1,67 @@
-# Olá, eu sou a Roberta! 👋
+# Roberta Naomi 👋
 
-📊 Analista de Dados com sólida experiência em Dados & Inteligência Comercial no mercado financeiro.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/roberta-naomi-rafael-778646160/))
 
-Acredito que dados geram valor quando se transformam em decisões. É isso que busco construir todos os dias: dashboards, indicadores, automações e análises que ajudam o negócio a evoluir.
+## 💜 Sobre mim
 
-🎓 Graduada em Administração
-💰 Pós-graduada em Finanças
+Sou Analista de dados com sólida experiência em **Dados** e **Inteligência Comercial** no mercado financeiro.
+
+Atualmente atuo transformando dados em informações estratégicas por meio de dashboards, indicadores e automações que apoiam a tomada de decisão.
+
+Minha formação em Administração, Pós-graduação em Finanças e os estudos em Ciência de Dados me permitem conectar negócio e tecnologia para desenvolver soluções orientadas por dados.
+
+Hoje estou aprofundando conhecimentos em **Inteligência Artificial**, **Python**, **Programação**, **Cloud** e **Engenharia de Dados**, construindo projetos para evoluir constantemente como profissional de dados.
+
+---
+
+# 💼 Experiência Profissional
+
+## 🏦 Banco Sofisa — Analista de Dados & Inteligência Comercial
+
+> Dados | Business Intelligence
+
+- 📊 Desenvolvimento de dashboards executivos em Power BI
+- 📈 Criação e acompanhamento de KPIs estratégicos
+- 🗄️ Consultas e tratamento de dados utilizando SQL no Databricks
+- ⚡ Automação de relatórios e processos com IA e Phyton
+- 🤝 Apoio às áreas de negócio na tomada de decisão
+
+---
+
+# 🎓 Formação
+
+🎓 Administração
+
+💰 Pós-graduação em Finanças
+
 📚 Estudante de Ciência de Dados
 
-## 🚀 Por aqui você vai encontrar
+---
 
-📈 Projetos de Business Intelligence  
-🐍 Estudos em Python e IA  
-📊 Dashboards e análises de dados  
-💡 Automações e soluções para problemas reais  
-📚 Minha evolução na área de Dados
+# 🚀 Atualmente estudando
 
-Sempre aprendendo, construindo e compartilhando conhecimento. Se dados podem gerar impacto, quero fazer parte dessa transformação. 🚀
+- 🤖 Inteligência Artificial
+- 🐍 Python
+- 💻 Programação
+- ☁️ Cloud Computing
+- 📊 Engenharia de Dados
+- 📈 Machine Learning
+- 📚 Estatística aplicada
+
+---
+
+# 🛠️ Tecnologias
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6F2DA8?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+> **"Transformando dados em decisões que geram valor para o negócio."** 📊
