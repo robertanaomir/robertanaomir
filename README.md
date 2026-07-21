@@ -1,6 +1,6 @@
 # Roberta Naomi 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/roberta-naomi-rafael-778646160/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-naomi-rafael-778646160/)
 
 ## 💜 Sobre mim
 
