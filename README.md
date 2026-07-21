@@ -1,6 +1,6 @@
 # Olá, eu sou a Roberta! 👋
 
-📊 Analista de Dados com experiência em Business Intelligence e Inteligência Comercial no mercado financeiro.
+📊 Analista de Dados com sólida experiência em Dados & Inteligência Comercial no mercado financeiro.
 
 Acredito que dados geram valor quando se transformam em decisões. É isso que busco construir todos os dias: dashboards, indicadores, automações e análises que ajudam o negócio a evoluir.
 
